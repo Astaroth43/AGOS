@@ -37,6 +37,7 @@ ModelImporter:
     7400004: Idle_002
     7400006: Walk
     9500000: //RootNode
+    11100000: //RootNode
     13700000: Cube_006
   materials:
     importMaterials: 1
@@ -199,7 +200,7 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
